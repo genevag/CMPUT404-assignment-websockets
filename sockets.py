@@ -75,7 +75,7 @@ clients = list()
 
 def set_listener( entity, data ):
     ''' do something with the update ! '''
-    var obj = {};
+    obj = {};
     obj[entity] = data
     myWorld.add_set_listener(obj)
         
