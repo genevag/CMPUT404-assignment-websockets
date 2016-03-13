@@ -57,3 +57,6 @@ Contributors
 
 * Mark Galloway
 * Abram Hindle
+* Geneva Giang
+
+Code was taken & used from : https://github.com/abramhindle/WebSocketsExamples.git 2016-03-12
